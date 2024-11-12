@@ -31,7 +31,7 @@ yes | pkg install libjansson nano git
 
 ## [ Clone Repo]
 ```
-git clone https://github.com/Bor-bar/ccminer-termux
+git clone https://github.com/Bur-bar/ccminer-termux
 cd ccminer-termux
 chmod +x ccminer start.sh
 ```
